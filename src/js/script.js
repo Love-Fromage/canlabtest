@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     uneFonction();
     console.log('test');
     console.log('test');
-    console.log('test');
+    //console.log('test');
     
 
 });
